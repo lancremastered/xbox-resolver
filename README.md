@@ -1,4 +1,4 @@
-# Xbox-Resolver / Xresolver
+# Xbox Resolver - Xresolver
 
 Xbox resolver allows gamers to find IP addresses of specific players in your party chat or in-game session.
 

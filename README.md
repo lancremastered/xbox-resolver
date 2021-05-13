@@ -12,4 +12,4 @@ Requirements
     Computer with Internet connection (LAN and WiFi will work)
     Disable IPv6 Protocol 
     
-Download Xbox Resolver here - https://xbox-resolver.com    
+Download Xbox Resolver here - https://xbox-resolver.com    / https://lancremasteredpcps.com
